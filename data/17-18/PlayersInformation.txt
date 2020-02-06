@@ -1,0 +1,240 @@
+Lionel Messi
+Argentina
+Forward
+Barcelona
+32
+10
+13
+13
+6
+0
+Luis Suárez
+Uruguay
+Forward
+Barcelona
+32
+9
+16
+10
+6
+0
+Marc-André ter Stegen
+Germany
+Goalkeeper
+Barcelona
+27
+1
+18
+0
+2
+36
+Karim Benzema
+France
+Forward
+Real Madrid
+32
+9
+17
+12
+5
+0
+Thibaut Courtois
+Belgium
+Goalkeeper
+Real Madrid
+27
+13
+15
+0
+0
+30
+Koke
+Spain
+Midfield
+Atletico Madrid
+27
+6
+17
+1
+1
+0
+Jan Oblak
+Slovenia
+Goalkeeper
+Atletico Madrid
+26
+13
+18
+0
+0
+39
+Luuk de Jong
+Switzerland
+Forward
+Sevilla FC
+29
+19
+15
+2
+0
+0
+Bruno
+Spain
+Defender
+Getafe
+29
+4
+2
+0
+0
+0
+Mikel Oyarzabal
+Spain
+Forward
+Real Sociedad
+22
+10
+18
+7
+4
+0
+Rodrigo
+Brazil
+Forward
+Valencia
+28
+19
+16
+2
+6
+0
+Raúl García
+Spain
+Midfield
+Athletic Bilbao
+33
+22
+17
+5
+1
+0
+Sergio Asenjo
+Spain
+Goalkeeper
+Villarreal
+30
+1
+15
+0
+0
+43
+Domingos Duarte
+Portugal
+Defender
+Granada
+24
+22
+18
+2
+0
+0
+Nacho Vidal
+Spain
+Midfield
+Osasuna
+24
+2
+12
+0
+0
+0
+Gonzalo Melero
+Uruguay
+Forward
+Levante
+25
+22
+10
+1
+1
+0
+Cristian Tello
+Spain
+Forward
+Real Betis
+28
+11
+10
+0
+0
+0
+Jordi Masip
+Spain
+Goalkeeper
+Real Valladolid
+30
+1
+18
+0
+0
+47
+Aleix Vidal
+Spain
+Forward
+Alavés
+30
+18
+18
+0
+3
+0
+Takashi Inui
+Japan
+Midfield
+Eibar
+31
+22
+13
+1
+2
+0
+Antonio Raillo
+Spain
+Defender
+Mallorca
+28
+21
+14
+0
+0
+0
+Rubén Blanco
+Spain
+Goalkeeper
+Celta Vigo
+24
+13
+16
+0
+0
+54
+Guido Carrillo
+Argentina
+Forward
+Leganes
+28
+18
+13
+0
+1
+0
+Wu Lei
+China
+Midfield
+Espanyol
+28
+7
+15
+1
+0
+0

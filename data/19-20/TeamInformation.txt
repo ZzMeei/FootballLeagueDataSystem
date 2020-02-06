@@ -1,0 +1,144 @@
+Barcelona
+39
+1
+47
+21
+Lionel Messi
+Luis Suárez
+Marc-André ter Stegen
+|||||
+Real Madrid
+37
+2
+33
+12
+Karim Benzema
+Thibaut Courtois
+|||||
+Atletico Madrid
+32
+4
+20
+11
+Koke
+Jan Oblak
+|||||
+Sevilla FC
+34
+3
+23
+17
+Luuk de Jong
+|||||
+Getafe
+30
+6
+26
+17
+Bruno
+|||||
+Real Sociedad
+31
+5
+32
+23
+Mikel Oyarzabal
+|||||
+Valencia
+28
+9
+28
+25
+Rodrigo
+|||||
+Athletic Bilbao
+28
+7
+19
+12
+Raúl García
+|||||
+Villarreal
+25
+8
+31
+25
+Sergio Asenjo
+|||||
+Granada
+24
+11
+24
+25
+Domingos Duarte
+|||||
+Osasuna
+23
+12
+25
+24
+Nacho Vidal
+|||||
+Levante
+26
+10
+25
+27
+Gonzalo Melero
+|||||
+Real Betis
+23
+13
+25
+31
+Cristian Tello
+|||||
+Real Valladolid
+20
+14
+15
+21
+Jordi Masip
+|||||
+Alavés
+19
+15
+19
+28
+Aleix Vidal
+|||||
+Eibar
+19
+16
+18
+28
+Takashi Inui
+|||||
+Mallorca
+15
+18
+18
+32
+Antonio Raillo
+|||||
+Celta Vigo
+14
+17
+15
+28
+Rubén Blanco
+|||||
+Leganes
+13
+19
+14
+28
+Guido Carrillo
+|||||
+Espanyol
+10
+20
+12
+34
+Wu Lei
+|||||

@@ -1,0 +1,320 @@
+Athletic Bilbao
+Barcelona
+1
+0
+Celta Vigo
+Real Madrid
+1
+3
+Valencia
+Real Sociedad
+1
+1
+Mallorca
+Eibar
+2
+1
+Leganes
+Osasuna
+0
+1
+Villarreal
+Granada
+4
+4
+Alavés
+Levante
+1
+0
+Espanyol
+Sevilla FC
+0
+2
+Real Betis
+Real Valladolid
+1
+2
+Atletico Madrid
+Getafe
+1
+0
+Granada
+Sevilla FC
+0
+1
+Levante
+Villarreal
+2
+1
+Osasuna
+Eibar
+0
+0
+Real Madrid
+Real Valladolid
+1
+1
+Celta Vigo
+Valencia
+1
+0
+Getafe
+Athletic Bilbao
+1
+1
+Alavés
+Espanyol
+0
+0
+Mallorca
+Real Sociedad
+0
+1
+Leganes
+Atletico Madrid
+0
+1
+Barcelona
+Real Betis
+5
+2
+Sevilla FC
+Celta Vigo
+1
+1
+Athletic Bilbao
+Real Sociedad
+2
+0
+Osasuna
+Barcelona
+2
+2
+Getafe
+Alavés
+1
+1
+Levante
+Real Valladolid
+2
+0
+Real Betis
+Leganes
+2
+1
+Valencia
+Mallorca
+2
+0
+Atletico Madrid
+Eibar
+3
+2
+Espanyol
+Granada
+0
+3
+Villarreal
+Real Madrid
+2
+2
+Mallorca
+Athletic Bilbao
+0
+0
+Real Madrid
+Levante
+3
+2
+Leganes
+Villarreal
+0
+3
+Real Sociedad
+Atletico Madrid
+2
+0
+Barcelona
+Valencia
+5
+2
+Eibar
+Espanyol
+1
+2
+Alavés
+Sevilla FC
+0
+1
+Celta Vigo
+Granada
+0
+2
+Real Valladolid
+Osasuna
+1
+1
+Real Betis
+Getafe
+1
+1
+Osasuna
+Real Betis
+0
+0
+Villarreal
+Real Valladolid
+2
+0
+Levante
+Eibar
+0
+0
+Atletico Madrid
+Celta Vigo
+0
+0
+Granada
+Barcelona
+2
+0
+Getafe
+Mallorca
+4
+2
+Espanyol
+Real Sociedad
+1
+3
+Valencia
+Leganes
+1
+1
+Athletic Bilbao
+Alavés
+2
+0
+Sevilla FC
+Real Madrid
+0
+1
+Real Valladolid
+Granada
+1
+1
+Real Betis
+Levante
+3
+1
+Barcelona
+Villarreal
+2
+1
+Leganes
+Athletic Bilbao
+1
+1
+Mallorca
+Atletico Madrid
+0
+2
+Valencia
+Getafe
+3
+3
+Real Madrid
+Osasuna
+2
+0
+Eibar
+Sevilla FC
+3
+2
+Celta Vigo
+Espanyol
+1
+1
+Real Sociedad
+Alavés
+3
+0
+Villarreal
+Real Betis
+5
+1
+Athletic Bilbao
+Valencia
+0
+1
+Getafe
+Barcelona
+0
+2
+Granada
+Leganes
+1
+0
+Atletico Madrid
+Real Madrid
+0
+0
+Espanyol
+Real Valladolid
+0
+2
+Eibar
+Celta Vigo
+2
+0
+Alavés
+Mallorca
+2
+0
+Levante
+Osasuna
+1
+1
+Sevilla FC
+Real Sociedad
+3
+2
+Real Betis
+Eibar
+1
+1
+Leganes
+Levante
+1
+2
+Real Madrid
+Granada
+4
+2
+Valencia
+Alavés
+2
+1
+Osasuna
+Villarreal
+2
+1
+Mallorca
+Espanyol
+2
+0
+Celta Vigo
+Athletic Bilbao
+1
+0
+Real Valladolid
+Atletico Madrid
+0
+0
+Real Sociedad
+Getafe
+1
+2
+Barcelona
+Sevilla FC
+4
+0
